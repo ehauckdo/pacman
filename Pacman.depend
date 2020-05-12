@@ -1,0 +1,339 @@
+# depslib dependency file v1.0
+1385313278 source:c:\dropbox\games project\pacman\main.cpp
+	<iostream>
+
+1398429040 source:c:\dropbox\games project\pacman\pacman.cpp
+	"Pacman.h"
+
+1398358838 c:\dropbox\games project\pacman\pacman.h
+	<SDL/SDL.h>
+	"Define.h"
+	"GameState.h"
+	"StartMenu.h"
+	"MainGame.h"
+	"FPS.h"
+
+1397864684 c:\dropbox\games project\pacman\define.h
+
+1398267428 c:\dropbox\games project\pacman\gamestate.h
+	<SDL/SDL.h>
+	"Define.h"
+
+1398429368 source:c:\dropbox\games project\pacman\startmenu.cpp
+	"StartMenu.h"
+
+1398341418 c:\dropbox\games project\pacman\startmenu.h
+	"GameState.h"
+	"SurfaceHandler.h"
+	"AnimDemo.h"
+	<SDL/SDL_ttf.h>
+
+1398186090 source:c:\dropbox\games project\pacman\surfacehandler.cpp
+	"SurfaceHandler.h"
+
+1398184749 c:\dropbox\games project\pacman\surfacehandler.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1398428859 source:c:\dropbox\games project\pacman\maingame.cpp
+	"MainGame.h"
+
+1398341501 c:\dropbox\games project\pacman\maingame.h
+	"GameState.h"
+	<vector>
+	<SDL/SDL_ttf.h>
+	"math.h"
+	"SoundBank.h"
+	"SurfaceHandler.h"
+	"Player.h"
+	"Ghost.h"
+	"BonusMessage.h"
+
+1396015975 source:c:\dropbox\games project\pacman\entity.cpp
+
+1398193392 source:c:\dropbox\games project\pacman\player.cpp
+	"Player.h"
+
+1398192828 c:\dropbox\games project\pacman\player.h
+	"Entity.h"
+	"Define.h"
+
+1398342136 c:\dropbox\games project\pacman\entity.h
+	<SDL/SDL.h>
+	"SurfaceHandler.h"
+	"Animation.h"
+	"FPS.h"
+
+1398262175 source:c:\dropbox\games project\pacman\ghost.cpp
+	"Ghost.h"
+
+1398342026 c:\dropbox\games project\pacman\ghost.h
+	"Entity.h"
+	"Define.h"
+	<algorithm>
+	<ctime>
+	<vector>
+
+1398267626 source:c:\dropbox\games project\pacman\fps.cpp
+	"FPS.h"
+
+1398267337 c:\dropbox\games project\pacman\fps.h
+	<SDL/SDL.h>
+
+1398258505 source:c:\dropbox\games project\pacman\animation.cpp
+	"Animation.h"
+
+1398258078 c:\dropbox\games project\pacman\animation.h
+	<SDL/SDL.h>
+	"FPS.h"
+
+1398031952 source:c:\dropbox\games project\pacman\map.cpp
+	"Map.h"
+
+1397755756 c:\dropbox\games project\pacman\map.h
+	"Player.h"
+	<SDL/SDL.h>
+	<vector>
+	<SDL/SDL_ttf.h>
+	"Ghost.h"
+	"SurfaceHandler.h"
+	"Entity.h"
+
+1398187589 c:\dropbox\games project\pacman\soundbank.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+	"Define.h"
+
+1398187570 source:c:\dropbox\games project\pacman\soundbank.cpp
+	"SoundBank.h"
+
+1398037420 source:c:\dropbox\games project\pacman\icon.rc
+
+1398257243 source:c:\dropbox\games project\pacman\animdemo.cpp
+	"AnimDemo.h"
+
+1398341513 c:\dropbox\games project\pacman\animdemo.h
+	<vector>
+	<SDL/SDL.h>
+	"Player.h"
+	"Ghost.h"
+	"SurfaceHandler.h"
+
+1398105916 c:\dropbox\games project\pacman\bonusmessage.h
+	<SDL/SDL.h>
+
+1398258505 source:c:\users\hauck\dropbox\games project\pacman\animation.cpp
+	"Animation.h"
+
+1398258078 c:\users\hauck\dropbox\games project\pacman\animation.h
+	<SDL/SDL.h>
+	"FPS.h"
+
+1398267337 c:\users\hauck\dropbox\games project\pacman\fps.h
+	<SDL/SDL.h>
+
+1398257243 source:c:\users\hauck\dropbox\games project\pacman\animdemo.cpp
+	"AnimDemo.h"
+
+1398341513 c:\users\hauck\dropbox\games project\pacman\animdemo.h
+	<vector>
+	<SDL/SDL.h>
+	"Player.h"
+	"Ghost.h"
+	"SurfaceHandler.h"
+
+1398192828 c:\users\hauck\dropbox\games project\pacman\player.h
+	"Entity.h"
+	"Define.h"
+
+1398342136 c:\users\hauck\dropbox\games project\pacman\entity.h
+	<SDL/SDL.h>
+	"SurfaceHandler.h"
+	"Animation.h"
+	"FPS.h"
+
+1398184749 c:\users\hauck\dropbox\games project\pacman\surfacehandler.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1397864684 c:\users\hauck\dropbox\games project\pacman\define.h
+
+1398342026 c:\users\hauck\dropbox\games project\pacman\ghost.h
+	"Entity.h"
+	"Define.h"
+	<algorithm>
+	<ctime>
+	<vector>
+
+1398267626 source:c:\users\hauck\dropbox\games project\pacman\fps.cpp
+	"FPS.h"
+
+1398262175 source:c:\users\hauck\dropbox\games project\pacman\ghost.cpp
+	"Ghost.h"
+
+1398037420 source:c:\users\hauck\dropbox\games project\pacman\icon.rc
+
+1398429588 source:c:\users\hauck\dropbox\games project\pacman\maingame.cpp
+	"MainGame.h"
+
+1398341501 c:\users\hauck\dropbox\games project\pacman\maingame.h
+	"GameState.h"
+	<vector>
+	<SDL/SDL_ttf.h>
+	"math.h"
+	"SoundBank.h"
+	"SurfaceHandler.h"
+	"Player.h"
+	"Ghost.h"
+	"BonusMessage.h"
+
+1398267428 c:\users\hauck\dropbox\games project\pacman\gamestate.h
+	<SDL/SDL.h>
+	"Define.h"
+
+1398187589 c:\users\hauck\dropbox\games project\pacman\soundbank.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+	"Define.h"
+
+1398105916 c:\users\hauck\dropbox\games project\pacman\bonusmessage.h
+	<SDL/SDL.h>
+
+1398429040 source:c:\users\hauck\dropbox\games project\pacman\pacman.cpp
+	"Pacman.h"
+
+1398531972 c:\users\hauck\dropbox\games project\pacman\pacman.h
+	<SDL/SDL.h>
+	"Define.h"
+	"GameState.h"
+	"StartMenu.h"
+	"MainGame.h"
+	"FPS.h"
+
+1398341418 c:\users\hauck\dropbox\games project\pacman\startmenu.h
+	"GameState.h"
+	"SurfaceHandler.h"
+	"AnimDemo.h"
+	<SDL/SDL_ttf.h>
+
+1398193392 source:c:\users\hauck\dropbox\games project\pacman\player.cpp
+	"Player.h"
+
+1398187570 source:c:\users\hauck\dropbox\games project\pacman\soundbank.cpp
+	"SoundBank.h"
+
+1398429368 source:c:\users\hauck\dropbox\games project\pacman\startmenu.cpp
+	"StartMenu.h"
+
+1398186090 source:c:\users\hauck\dropbox\games project\pacman\surfacehandler.cpp
+	"SurfaceHandler.h"
+
+1398258505 source:c:\google drive\games project\pacman\animation.cpp
+	"Animation.h"
+
+1398258078 c:\google drive\games project\pacman\animation.h
+	<SDL/SDL.h>
+	"FPS.h"
+
+1398267337 c:\google drive\games project\pacman\fps.h
+	<SDL/SDL.h>
+
+1398257243 source:c:\google drive\games project\pacman\animdemo.cpp
+	"AnimDemo.h"
+
+1398341513 c:\google drive\games project\pacman\animdemo.h
+	<vector>
+	<SDL/SDL.h>
+	"Player.h"
+	"Ghost.h"
+	"SurfaceHandler.h"
+
+1398192828 c:\google drive\games project\pacman\player.h
+	"Entity.h"
+	"Define.h"
+
+1398342136 c:\google drive\games project\pacman\entity.h
+	<SDL/SDL.h>
+	"SurfaceHandler.h"
+	"Animation.h"
+	"FPS.h"
+
+1398184749 c:\google drive\games project\pacman\surfacehandler.h
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+
+1397864684 c:\google drive\games project\pacman\define.h
+
+1398342026 c:\google drive\games project\pacman\ghost.h
+	"Entity.h"
+	"Define.h"
+	<algorithm>
+	<ctime>
+	<vector>
+
+1398267626 source:c:\google drive\games project\pacman\fps.cpp
+	"FPS.h"
+
+1398262175 source:c:\google drive\games project\pacman\ghost.cpp
+	"Ghost.h"
+
+1398037420 source:c:\google drive\games project\pacman\icon.rc
+
+1398429588 source:c:\google drive\games project\pacman\maingame.cpp
+	"MainGame.h"
+
+1398341501 c:\google drive\games project\pacman\maingame.h
+	"GameState.h"
+	<vector>
+	<SDL/SDL_ttf.h>
+	"math.h"
+	"SoundBank.h"
+	"SurfaceHandler.h"
+	"Player.h"
+	"Ghost.h"
+	"BonusMessage.h"
+
+1398267428 c:\google drive\games project\pacman\gamestate.h
+	<SDL/SDL.h>
+	"Define.h"
+
+1398187589 c:\google drive\games project\pacman\soundbank.h
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<vector>
+	"Define.h"
+
+1398105916 c:\google drive\games project\pacman\bonusmessage.h
+	<SDL/SDL.h>
+
+1398429040 source:c:\google drive\games project\pacman\pacman.cpp
+	"Pacman.h"
+
+1398358838 c:\google drive\games project\pacman\pacman.h
+	<SDL/SDL.h>
+	"Define.h"
+	"GameState.h"
+	"StartMenu.h"
+	"MainGame.h"
+	"FPS.h"
+
+1398341418 c:\google drive\games project\pacman\startmenu.h
+	"GameState.h"
+	"SurfaceHandler.h"
+	"AnimDemo.h"
+	<SDL/SDL_ttf.h>
+
+1398193392 source:c:\google drive\games project\pacman\player.cpp
+	"Player.h"
+
+1398187570 source:c:\google drive\games project\pacman\soundbank.cpp
+	"SoundBank.h"
+
+1398429368 source:c:\google drive\games project\pacman\startmenu.cpp
+	"StartMenu.h"
+
+1398186090 source:c:\google drive\games project\pacman\surfacehandler.cpp
+	"SurfaceHandler.h"
+
